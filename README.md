@@ -1,5 +1,5 @@
 # Ravi Ferreira
-Software Quality Analyst Junior - QA Tester
+Software Quality Analyst - QA
 
 -  Website: https://ravifel.github.io/
 -  Linkedln: https://www.linkedin.com/in/ravifel/
